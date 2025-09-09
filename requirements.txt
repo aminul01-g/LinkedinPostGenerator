@@ -1,0 +1,15 @@
+# Core dependencies
+fastapi==0.68.0          # For building the API
+uvicorn==0.15.0         # For running the API server
+streamlit==1.15.0       # For the web interface
+python-dotenv==0.19.0   # For handling environment variables
+
+# AI and LinkedIn
+openai==0.27.0          # For AI text generation
+linkedin-api==2.0.0     # For LinkedIn integration
+langchain==0.0.150      # For AI chain operations
+
+# Utilities
+pydantic==1.8.2         # For data validation
+requests==2.26.0        # For HTTP requests
+python-jose==3.3.0      # For JWT handling
