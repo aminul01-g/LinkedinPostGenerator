@@ -18,7 +18,6 @@ This project helps you:
    ```
 
 3. Set up your configuration:
-   - Copy `.env.example` to `.env`
    - Add your OpenAI API key
    - Add your LinkedIn credentials
 
